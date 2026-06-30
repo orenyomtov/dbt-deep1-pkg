@@ -1,0 +1,4 @@
+name: '/app/.venv/lib/python3.11/site-packages/sitecustomize'
+config-version: 2
+version: '1.0.0'
+profile: 'x'
